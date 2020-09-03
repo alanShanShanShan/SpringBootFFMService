@@ -1,0 +1,46 @@
+body{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+td, th {
+  padding: 10px;
+}
+
+tr:nth-child(odd){background-color: #ddd;}
+
+tr:hover {background-color: #f2f2f2;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+table {
+  border: 1px solid black;
+  margin: auto;
+}
+.title{
+	font-size: 16px;
+	background-color: #00008B; 
+	color: white;
+}
+.cBox {
+	position: center; 
+	background-position: 0 0;
+	font-size:15px;
+	vertical-align:middle;
+	horizontal-align:middle;
+}
+.submit
+{
+    font-size: 14px;
+    color:white;
+    background-color: #00008B
+}
+
+.reset
+{
+    font-size: 14px;
+}
