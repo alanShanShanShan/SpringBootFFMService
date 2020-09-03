@@ -1,2 +1,3 @@
 # SpringBootFFMService
-practice
+
+localhost:8080/
